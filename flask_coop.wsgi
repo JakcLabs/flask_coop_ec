@@ -1,1 +1,0 @@
-from flask_coop import app as application
